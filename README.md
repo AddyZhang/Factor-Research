@@ -1,3 +1,5 @@
 # Factor-Research
-Factor testing Frame
-1. t-test
+
+Factor Calculaton
+
+Factor testing and validation.
